@@ -241,4 +241,3 @@ if __name__ == '__main__':
 
     elif MODE == 'random':
         best_cfg = random_search(X_train, y_train, X_val, y_val, num_trials)    
-
