@@ -48,7 +48,7 @@ pip install numpy matplotlib
 
 本项目在测试集上取得最高准确率的模型权重文件 `best_model.pkl` 已上传至 Google Drive。若要复现报告中的评估结果，请遵循以下步骤：
 
-1.  **下载权重文件**：请访问 [Google Drive 分享链接](这里替换为你的真实分享链接)，下载 `best_model.pkl`。
+1.  **下载权重文件**：请访问 [Google Drive 分享链接](https://drive.google.com/file/d/1MXLFoVSi2nCodd4V1vmZFqEA_S3_21T5/view?usp=sharing)，下载 `best_model.pkl`。
 2.  **放置文件**：在项目根目录下手动创建 `outputs/weights/` 文件夹（如果不存在），并将下载好的文件放入其中。请确保路径结构如下：
     ```text
     Fashion-MNIST/
