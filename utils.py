@@ -140,3 +140,4 @@ def visualize_error_cases(X_test, y_true, y_pred, classes=FASHION_MNIST_CLASSES,
         plt.savefig(save_path, bbox_inches='tight')
         print(f"大规模错例分析图已保存至 {save_path}")
     plt.show()
+    
