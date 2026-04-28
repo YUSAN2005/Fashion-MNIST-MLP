@@ -189,3 +189,4 @@ class SGD:
                 
     def update_lr(self, decay_rate):
         self.lr *= decay_rate
+        
