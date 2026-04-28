@@ -76,3 +76,4 @@ def evaluate_pipeline(model_path='outputs/weights/best_model.pkl'):
 
 if __name__ == '__main__':
     evaluate_pipeline('best_model.pkl')
+    
